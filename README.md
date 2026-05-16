@@ -109,9 +109,9 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 <div align="center">
 
-![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=swastiksinha1&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Swastik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swastiksinha1&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=swastiksinha1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
