@@ -8,7 +8,7 @@ B.Tech CSE (E-Commerce) @ VIT Bhopal · I build web apps, dig into AI/ML, and br
 
 [![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=0e75b6&style=flat)](https://github.com/swastiksinha1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
 
 </div>
 
