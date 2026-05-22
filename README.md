@@ -81,6 +81,18 @@ A full-stack peer-to-peer marketplace built for VIT Bhopal students to buy, sell
 
 ---
 
+### 🔍 [Fake Review Detector](https://github.com/swastiksinha1/fake-review-detector) — ML-driven review classifier
+
+An interactive web app that uses Machine Learning and NLP to detect fake e-commerce reviews based on text sentiment and behavioral patterns. 
+
+**Commerce features:** Protects consumers and maintains platform integrity by solving a massive e-commerce trust issue—classifying product reviews as genuine or fraudulent in real-time.
+
+**Engineering depth:** Custom Machine Learning pipeline built with Python and Scikit-learn, utilizing TF-IDF vectorization, behavioral heuristics, and a Streamlit UI for interactive inference.
+
+`Python` · `Machine Learning` · `NLP` · `Streamlit` · `scikit-learn` · `TF-IDF`
+
+---
+
 ### 🔐 CTF — OWASP VIT Bhopal (HACKZERO'26)
 
 Active participant in cybersecurity competitions under the OWASP VIT Bhopal chapter. Solved a Unicode zero-width character steganography challenge — extracted the hidden flag through bitstream analysis of invisible Unicode codepoints embedded in plaintext.
