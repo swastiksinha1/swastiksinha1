@@ -71,15 +71,14 @@ B.Tech CSE (E-Commerce) @ VIT Bhopal · I build web apps, dig into AI/ML, and br
 
 ### 🛒 [ViTMART](https://github.com/swastiksinha1/ViTMART) — Student marketplace for VIT Bhopal
 
-A full-stack peer-to-peer marketplace built for VIT Bhopal students to buy, sell, and trade — think a campus-scale OLX. Engineered as a single-file app using Firebase (Firestore + Auth), Tailwind CSS, and vanilla JS.
+A full-stack peer-to-peer marketplace built for VIT Bhopal students to buy, sell, and trade — think a campus-scale OLX. Engineered as a highly responsive, component-driven React application using Vite, Firebase (Firestore + Auth), and Tailwind CSS.
 
-**Commerce features:** real-time chat between buyers and sellers, make-an-offer negotiation flow, product listing with categories, and an AI-powered chatbot for buyer assistance.
+**Commerce features:** real-time chat between buyers and sellers, dynamic trade-offer negotiation flow, product listings with advanced filtering, and a Gemini AI-powered chatbot for buyer assistance.
 
-**Engineering depth:** Firestore security rules, XSS sanitisation, mobile-first performance optimisation, auth state management, and real-time notification listeners.
+**Engineering depth:** Architected strict Firestore security rules, robust Context API state management, mobile-first performance optimization, and real-time database snapshot listeners for instant notifications.
 
-`Firebase` · `Firestore Rules` · `JavaScript` · `Tailwind` · `Real-time chat` · `Offer system` · `P2P marketplace`
+`React` · `Vite` · `Tailwind CSS` · `Firebase` · `Firestore Rules` · `Real-time chat` · `P2P marketplace`
 
----
 
 ### 🔍 [Fake Review Detector](https://github.com/swastiksinha1/fake-review-detector) — ML-driven review classifier
 
