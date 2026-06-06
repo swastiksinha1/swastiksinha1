@@ -118,15 +118,15 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 ## Stats
 
-<div align="center">
-
-![Swastik's GitHub stats](https://github-readme-stats-seven-nu-40.vercel.app/api?username=swastiksinha1&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<div align="center
+  
+[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/swastiksinha1)
 
 ![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
 
-[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/swastiksinha1)
+
 
 </div>
 
