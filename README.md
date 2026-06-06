@@ -115,7 +115,19 @@ Trained and evaluated 5 ML models on the CIC-IDS2018 network traffic dataset. Fu
 
 The original prototype for the campus marketplace idea — the foundation that evolved into ViTMART.
 
+---
 
+## Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
+
+</div>
+
+---
 
 ## What I'm building next
 
