@@ -122,11 +122,11 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 ![Swastik's GitHub stats](https://github-readme-stats-seven-nu-40.vercel.app/api?username=swastiksinha1&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=swastiksinha1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/swastiksinha1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swastiksinha1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/swastiksinha1)
 
 </div>
 
