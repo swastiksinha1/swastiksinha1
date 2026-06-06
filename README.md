@@ -9,6 +9,7 @@ B.Tech CSE (E-Commerce) @ VIT Bhopal · I build web apps, dig into AI/ML, and br
 [![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=0e75b6&style=flat)](https://github.com/swastiksinha1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
+[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/swastiksinha1)
 
 </div>
 
@@ -114,23 +115,7 @@ Trained and evaluated 5 ML models on the CIC-IDS2018 network traffic dataset. Fu
 
 The original prototype for the campus marketplace idea — the foundation that evolved into ViTMART.
 
----
 
-## Stats
-
-<div align="center">
-
-![Swastik's GitHub stats](https://github-readme-stats-seven-nu-40.vercel.app/api?username=swastiksinha1&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
-
-[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/swastiksinha1)
-
-</div>
-
----
 
 ## What I'm building next
 
