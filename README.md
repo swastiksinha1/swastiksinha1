@@ -126,7 +126,7 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swastiksinha1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/swastiksinha1)
+[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/swastiksinha1)
 
 </div>
 
