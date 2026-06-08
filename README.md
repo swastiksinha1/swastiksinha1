@@ -92,6 +92,8 @@ A full-stack peer-to-peer marketplace built for VIT Bhopal students to buy, sell
 
 `React` · `Vite` · `Tailwind CSS` · `Firebase` · `Firestore Rules` · `Real-time chat` · `P2P marketplace`
 
+---
+
 
 ### 🔍 [Fake Review Detector](https://github.com/swastiksinha1/fake-review-detector) — ML-driven review classifier
 
