@@ -70,6 +70,18 @@ B.Tech CSE (E-Commerce) @ VIT Bhopal · I build web apps, dig into AI/ML, and br
 
 ## Featured projects
 
+### 🚀 [AI Career Copilot](https://github.com/swastiksinha1/ai-career-copilot) — AI-powered placement OS
+
+An end-to-end placement operating system designed to give engineers an unfair advantage in the modern job market by automating the job hunt and interview prep process.
+
+**Career features:** AI resume analysis, intelligent job matching against JD keywords, personalized week-by-week interview roadmaps, and an integrated Kanban board for application tracking.
+
+**Engineering depth:** Architected with Next.js 15 (App Router), Supabase (PostgreSQL), and Prisma ORM. Integrated with Google Gemini 2.5 Flash for complex structured JSON parsing of resumes and dynamic mock interview generation.
+
+`Next.js` · `Supabase` · `Prisma` · `Google Gemini` · `Tailwind CSS` · `Clerk`
+
+---
+
 ### 🛒 [ViTMART](https://github.com/swastiksinha1/ViTMART) — Student marketplace for VIT Bhopal
 
 A full-stack peer-to-peer marketplace built for VIT Bhopal students to buy, sell, and trade — think a campus-scale OLX. Engineered as a highly responsive, component-driven React application using Vite, Firebase (Firestore + Auth), and Tailwind CSS.
