@@ -74,7 +74,7 @@ B.Tech CSE (E-Commerce) @ VIT Bhopal · I build web apps, dig into AI/ML, and br
 
 An end-to-end placement operating system designed to give engineers an unfair advantage in the modern job market by automating the job hunt and interview prep process.
 
-**Career features:** AI resume analysis, intelligent job matching against JD keywords, personalized week-by-week interview roadmaps, and an integrated Kanban board for application tracking.
+**Career features:** AI resume analysis, intelligent job matching against JD keywords, personalized week-by-week interview roadmaps, and an integrated Kanban board for application tracking , Job Based Quizes. 
 
 **Engineering depth:** Architected with Next.js 15 (App Router), Supabase (PostgreSQL), and Prisma ORM. Integrated with Google Gemini 2.5 Flash for complex structured JSON parsing of resumes and dynamic mock interview generation.
 
