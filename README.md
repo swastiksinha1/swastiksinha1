@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey, I'm Swastik 👋
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=7AA2F7&background=1a1b2600&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Swastik+👋" alt="Typing SVG" />
+
 
 B.Tech CSE (E-Commerce) @ VIT Bhopal · I build web apps, dig into AI/ML, and break things in CTFs.
 
