@@ -25,6 +25,14 @@
 
 ---
 
+## Why CSE + E-Commerce?
+
+Most developers can build the tech. Fewer understand *why* users abandon carts, how payment flows affect conversion, or what supply chain constraints mean for inventory systems. My degree gives me both sides — I can talk to a backend engineer and a business analyst in the same meeting.
+
+If you're building a commerce product, a fintech tool, or anything where the user journey directly affects revenue — I get that problem space.
+
+---
+
 ## Current stack
 
 **Languages**
@@ -52,19 +60,29 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**E-Commerce & business domain knowledge**
+<details>
+<summary><strong>E-Commerce & business domain knowledge</strong></summary>
+<br/>
 
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain_Management-NPTEL-0A66C2?style=for-the-badge)
 ![Digital Commerce](https://img.shields.io/badge/Digital_Commerce-Strategy-F97316?style=for-the-badge)
 ![Product Thinking](https://img.shields.io/badge/Conversion_UX-Product_Thinking-8B5CF6?style=for-the-badge)
 ![Payments](https://img.shields.io/badge/Payment_Flows-Integration-16A34A?style=for-the-badge)
 
-**On the roadmap**
+</details>
+
+<br/>
+
+<details>
+<summary><strong>On the roadmap</strong></summary>
+<br/>
 
 ![DSA](https://img.shields.io/badge/DSA-Competitive_Programming-22C55E?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+</details>
 
 ---
 
@@ -144,9 +162,6 @@ The original prototype for the campus marketplace idea — the foundation that e
 [![GitHub Streak](https://streak-stats.demolab.com?user=swastiksinha1&theme=dark)](https://git.io/streak-stats)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -160,13 +175,7 @@ The original prototype for the campus marketplace idea — the foundation that e
 - 🔐 Going deeper into web security and application-layer attack patterns
 - 📦 DSA grind — targeting product and SDE internship interviews
 
----
 
-## Why CSE + E-Commerce?
-
-Most developers can build the tech. Fewer understand *why* users abandon carts, how payment flows affect conversion, or what supply chain constraints mean for inventory systems. My degree gives me both sides — I can talk to a backend engineer and a business analyst in the same meeting.
-
-If you're building a commerce product, a fintech tool, or anything where the user journey directly affects revenue — I get that problem space.
 
 ---
 
