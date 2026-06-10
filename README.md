@@ -7,6 +7,7 @@
   > *I sit at the intersection of software engineering and digital commerce — I don't just build apps, I think about why people use them.*
 
   [![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=58a6ff&style=for-the-badge)](https://github.com/swastiksinha1)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swastiksinha-portfolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
   [![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swastiksinha1)
