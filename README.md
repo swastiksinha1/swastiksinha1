@@ -1,15 +1,15 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Swastik+%F0%9F%91%8B;B.Tech+CSE+(E-Commerce)+%40+VIT;I+build+web+apps;I+dig+into+AI%2FML;I+break+things+in+CTFs" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Swastik+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-</div>
+  <h3>B.Tech CSE @ VIT Bhopal · I build web apps, dig into AI/ML, and break things in CTFs.</h3>
 
-> *I sit at the intersection of software engineering and digital commerce — I don't just build apps, I think about why people use them.*
+  > *I sit at the intersection of software engineering and digital commerce — I don't just build apps, I think about why people use them.*
 
-[![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=58a6ff&style=for-the-badge)](https://github.com/swastiksinha1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
-[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swastiksinha1)
+  [![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=58a6ff&style=for-the-badge)](https://github.com/swastiksinha1)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
+  [![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swastiksinha1)
 
 </div>
 
@@ -36,17 +36,19 @@
 **Frameworks & tools**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,tailwind,sklearn,git,linux" />
+  <img src="https://skillicons.dev/icons?i=firebase,tailwind,git,linux" />
 </a>
-<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Learning right now**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react" />
 </a>
-<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
