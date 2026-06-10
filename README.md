@@ -137,6 +137,8 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 ![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
+[![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastiksinha1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=swastiksinha1&theme=dark)](https://git.io/streak-stats)
 
