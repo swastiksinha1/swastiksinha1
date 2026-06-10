@@ -1,19 +1,15 @@
 <div align="center">
 
-  <marquee behavior="slide" direction="left" scrollamount="12">
-    <h1>Hey, I'm Swastik 👋</h1>
-  </marquee>
-
-  <h3>B.Tech CSE @ VIT Bhopal · I build web apps, dig into AI/ML, and break things in CTFs.</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Swastik+%F0%9F%91%8B;B.Tech+CSE+(E-Commerce)+%40+VIT;I+build+web+apps;I+dig+into+AI%2FML;I+break+things+in+CTFs" alt="Typing SVG" /></a>
 
 </div>
 
 > *I sit at the intersection of software engineering and digital commerce — I don't just build apps, I think about why people use them.*
 
-[![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=0e75b6&style=flat)](https://github.com/swastiksinha1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
-[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/swastiksinha1)
+[![Profile views](https://komarev.com/ghpvc/?username=swastiksinha1&color=58a6ff&style=for-the-badge)](https://github.com/swastiksinha1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastiksinha1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastiksinha001@gmail.com)
+[![Contributions](https://img.shields.io/badge/Contributions-Active-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swastiksinha1)
 
 </div>
 
@@ -33,42 +29,40 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,py,java,html,css" />
+</a>
 
 **Frameworks & tools**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,tailwind,sklearn,git,linux" />
+</a>
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Learning right now**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi" />
+</a>
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **E-Commerce & business domain knowledge**
 
-![Supply Chain](https://img.shields.io/badge/Supply_Chain_Management-NPTEL-0A66C2?style=flat)
-![Digital Commerce](https://img.shields.io/badge/Digital_Commerce-Strategy-F97316?style=flat)
-![Product Thinking](https://img.shields.io/badge/Conversion_UX-Product_Thinking-8B5CF6?style=flat)
-![Payments](https://img.shields.io/badge/Payment_Flows-Integration-16A34A?style=flat)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain_Management-NPTEL-0A66C2?style=for-the-badge)
+![Digital Commerce](https://img.shields.io/badge/Digital_Commerce-Strategy-F97316?style=for-the-badge)
+![Product Thinking](https://img.shields.io/badge/Conversion_UX-Product_Thinking-8B5CF6?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Payment_Flows-Integration-16A34A?style=for-the-badge)
 
 **On the roadmap**
 
-![DSA](https://img.shields.io/badge/DSA-Competitive_Programming-22C55E?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Competitive_Programming-22C55E?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
