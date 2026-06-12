@@ -162,8 +162,6 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=swastiksinha1&theme=dark)](https://git.io/streak-stats)
 
-
-
 </div>
 
 ---
