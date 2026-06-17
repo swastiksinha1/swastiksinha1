@@ -161,7 +161,7 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=swastiksinha1&theme=dark)](https://git.io/streak-stats)
+[![Swastik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swastiksinha1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
