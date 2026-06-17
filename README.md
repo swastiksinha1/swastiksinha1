@@ -153,15 +153,14 @@ The original prototype for the campus marketplace idea — the foundation that e
 ## Stats
 
 <div align="center">
-  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swastiksinha1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=swastiksinha1&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swastiksinha1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+![](https://github-readme-stats.shion.dev/api?username=swastiksinha1&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=swastiksinha1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swastiksinha1&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ---
