@@ -154,14 +154,15 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats-seven-nu-40.vercel.app/api/top-langs/?username=swastiksinha1&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=21600)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=swastiksinha1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=swastiksinha1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swastiksinha1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=swastiksinha1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastiksinha1&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=swastiksinha1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=21600)](https://git.io/streak-stats)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ---
