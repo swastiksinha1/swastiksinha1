@@ -153,7 +153,7 @@ The original prototype for the campus marketplace idea — the foundation that e
 ## Stats
 
 <div align="center">
-# 📊 GitHub Stats:
+
   
 ![](https://github-readme-stats.shion.dev/api?username=swastiksinha1&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=swastiksinha1&theme=neon&hide_border=false)<br/>
