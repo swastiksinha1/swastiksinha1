@@ -167,9 +167,7 @@ The original prototype for the campus marketplace idea — the foundation that e
 ## What I'm building next
 
 - 🧠 LLM-powered product recommendation engine (e-commerce + AI)
-- ⚡ Migrating ViTMART to a Next.js + Firebase architecture with proper payment integration
 - 📊 Fraud detection ML model trained on e-commerce transaction datasets
-- 🔐 Going deeper into web security and application-layer attack patterns
 - 📦 DSA grind — targeting product and SDE internship interviews
 
 
