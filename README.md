@@ -166,7 +166,6 @@ The original prototype for the campus marketplace idea — the foundation that e
 
 ## What I'm building next
 
-- 🧠 LLM-powered product recommendation engine (e-commerce + AI)
 - 📊 Fraud detection ML model trained on e-commerce transaction datasets
 - 📦 DSA grind — targeting product and SDE internship interviews
 
