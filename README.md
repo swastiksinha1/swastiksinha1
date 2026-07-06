@@ -19,7 +19,6 @@
 ## What I do
 
 - 🛒 Build e-commerce and marketplace platforms with real business logic — not just CRUD apps
-- 🤖 Explore ML pipelines, network intrusion detection, and LLM-powered tools
 - 📦 Currently learning Next.js, React, and DSA
 - 📊 Understand both the tech stack *and* the commerce layer — supply chains, buyer behaviour, digital payments
 
