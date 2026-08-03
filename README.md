@@ -162,14 +162,6 @@ The original prototype for the campus marketplace idea — the foundation that e
 </div>
 
 ---
-
-## What I'm building next
-
-- 📊 Fraud detection ML model trained on e-commerce transaction datasets
-- 📦 DSA grind — targeting product and SDE internship interviews
-
-
-
 ---
 
 <div align="center">
