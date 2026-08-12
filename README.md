@@ -2,7 +2,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Swastik+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-  <h3>B.Tech CSE @ VIT Bhopal · I build web apps, dig into AI/ML, and and open innovation.</h3>
+  <h3>B.Tech CSE @ VIT Bhopal · I build web apps, dig into AI/ML, and open innovation.</h3>
 
   > *I sit at the intersection of software engineering and digital commerce — I don't just build apps, I think about why people use them.*
 
