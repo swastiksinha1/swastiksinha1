@@ -95,6 +95,7 @@ An end-to-end placement operating system designed to give engineers an unfair ad
 
 **Engineering depth:** Architected with Next.js 15 (App Router), Supabase (PostgreSQL), and Prisma ORM. Integrated with Google Gemini 2.5 Flash for complex structured JSON parsing of resumes and dynamic mock interview generation.
 
+
 `Next.js` · `Supabase` · `Prisma` · `Google Gemini` · `Tailwind CSS` · `Clerk`
 
 ---
